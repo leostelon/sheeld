@@ -3,12 +3,12 @@
 
 This project is composed of 3 main repositories that together build a decentralized VPN tunnel with SOCKS5 proxying.
 
-![enter image description here](https://cdn.discordapp.com/attachments/1367866162637049947/1372125973390299156/twitter_banner.png?ex=6825a364&is=682451e4&hm=3bc9daca9d6d32e851516722ca6dfdc1a3197d02ef63c0689de0f7e6cdab4df6&)
+![enter image description here](https://sheeld.xyz/assets/readme-banner.png)
 
 ## 📦 Repositories
 
--   **[Node (Server)](https://github.com/leostelon/sheeld-network)** – Backend built with Node.js and CommonJS.
--   **[Android Client](https://github.com/leostelon/sheeld-android)** – Native Android app written in Java, using VPN tunneling and SOCKS5.
+-   **[Node (Server)](https://github.com/leostelon/sheeld-network)** – A peer-to-peer (P2P) network node built with Node.js (CommonJS) and GunDB for decentralized data synchronization.
+-   **[Android Client](https://github.com/leostelon/sheeld-android)** – Native Android app written in Java, using VPN tunneling and SOCKS5.	
 -   **[Frontend (Website Landing)](https://github.com/leostelon/sheeld-landing)** – Landing page and documentation website.
     
 
