@@ -1,0 +1,9 @@
+[submodule "sheeld-network"]
+	path = sheeld-network
+	url = https://github.com/leostelon/sheeld-network
+[submodule "sheeld-android"]
+	path = sheeld-android
+	url = https://github.com/leostelon/sheeld-android.git
+[submodule "sheeld-landing"]
+	path = sheeld-landing
+	url = https://github.com/leostelon/sheeld-landing.git
